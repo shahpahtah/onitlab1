@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omaka\\source\\repos\\onitLab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|c:\\users\\omaka\\source\\repos\\onitlab1\\onitlab1\\tests\\itemscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|solutionrelative:onitlab1\\tests\\itemscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|c:\\users\\omaka\\source\\repos\\onitlab1\\onitlab1\\.github\\workflows\\ci.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|solutionrelative:onitlab1\\.github\\workflows\\ci.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|c:\\users\\omaka\\source\\repos\\onitlab1\\onitlab1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|solutionrelative:onitlab1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|c:\\users\\omaka\\source\\repos\\onitlab1\\onitlab1\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|solutionrelative:onitlab1\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|c:\\users\\omaka\\source\\repos\\onitlab1\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|c:\\users\\omaka\\source\\repos\\onitlab1\\onitlab1\\onitlab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|solutionrelative:onitlab1\\onitlab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|c:\\users\\omaka\\source\\repos\\onitlab1\\onitlab1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|solutionrelative:onitlab1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|c:\\users\\omaka\\source\\repos\\onitlab1\\onitlab1\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|solutionrelative:onitlab1\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|c:\\users\\omaka\\source\\repos\\onitlab1\\onitlab1\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC285F5-20BF-B631-184A-6B9287DD131E}|onitLab1\\onitLab1.csproj|solutionrelative:onitlab1\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\omaka\\source\\repos\\onitLab1\\onitLab1\\Tests\\ItemsControllerTests.cs",
+              "RelativeDocumentMoniker": "onitLab1\\Tests\\ItemsControllerTests.cs",
+              "ToolTip": "C:\\Users\\omaka\\source\\repos\\onitLab1\\onitLab1\\Tests\\ItemsControllerTests.cs*",
+              "RelativeToolTip": "onitLab1\\Tests\\ItemsControllerTests.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T09:41:26.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ci.yml",
+              "DocumentMoniker": "C:\\Users\\omaka\\source\\repos\\onitLab1\\onitLab1\\.github\\workflows\\ci.yml",
+              "RelativeDocumentMoniker": "onitLab1\\.github\\workflows\\ci.yml",
+              "ToolTip": "C:\\Users\\omaka\\source\\repos\\onitLab1\\onitLab1\\.github\\workflows\\ci.yml*",
+              "RelativeToolTip": "onitLab1\\.github\\workflows\\ci.yml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-04-02T09:38:42.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\omaka\\source\\repos\\onitLab1\\onitLab1\\Dockerfile",
+              "RelativeDocumentMoniker": "onitLab1\\Dockerfile",
+              "ToolTip": "C:\\Users\\omaka\\source\\repos\\onitLab1\\onitLab1\\Dockerfile",
+              "RelativeToolTip": "onitLab1\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-01T20:56:36.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\omaka\\source\\repos\\onitLab1\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\omaka\\source\\repos\\onitLab1\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-01T20:49:04.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\omaka\\source\\repos\\onitLab1\\onitLab1\\docker-compose.yml",
+              "RelativeDocumentMoniker": "onitLab1\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\omaka\\source\\repos\\onitLab1\\onitLab1\\docker-compose.yml",
+              "RelativeToolTip": "onitLab1\\docker-compose.yml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-04-01T20:43:01.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\omaka\\source\\repos\\onitLab1\\onitLab1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "onitLab1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\omaka\\source\\repos\\onitLab1\\onitLab1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "onitLab1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T20:04:30.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\omaka\\source\\repos\\onitLab1\\onitLab1\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "onitLab1\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\omaka\\source\\repos\\onitLab1\\onitLab1\\Models\\Item.cs",
+              "RelativeToolTip": "onitLab1\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T20:03:39.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "onitLab1.csproj",
+              "DocumentMoniker": "C:\\Users\\omaka\\source\\repos\\onitLab1\\onitLab1\\onitLab1.csproj",
+              "RelativeDocumentMoniker": "onitLab1\\onitLab1.csproj",
+              "ToolTip": "C:\\Users\\omaka\\source\\repos\\onitLab1\\onitLab1\\onitLab1.csproj",
+              "RelativeToolTip": "onitLab1\\onitLab1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T20:08:57.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\omaka\\source\\repos\\onitLab1\\onitLab1\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "onitLab1\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\omaka\\source\\repos\\onitLab1\\onitLab1\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "onitLab1\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T20:18:20.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

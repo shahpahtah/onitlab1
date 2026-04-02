@@ -1,0 +1,16 @@
+bin/
+obj/
+.vs/
+.env
+*.user
+*.suo
+Migrations/
+*.cache
+*.tmp
+*.log
+*.dll
+*.exe
+*.pdb
+*.json
+!appsettings.json
+!appsettings.Development.json
