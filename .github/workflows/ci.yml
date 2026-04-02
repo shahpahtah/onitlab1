@@ -10,10 +10,5 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     
-    - name: Build and push
-      uses: docker/build-push-action@v5
-      with:
-        context: .
-        file: Dockerfile
-        push: false
-        tags: test:latest
+    - name: Build Docker image
+      run: docker build -t myapp .
