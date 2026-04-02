@@ -1,12 +1,14 @@
 FROM mcr.microsoft.com/dotnet/sdk:10.0 AS build
 WORKDIR /src
 
-# Копируем ВСЕ файлы проекта (не только csproj)
-COPY . .
+# Копируем папку с проектом
+COPY onitLab1/ ./onitLab1/
 
-# Восстанавливаем и публикуем
-RUN dotnet restore "onitLab1/onitLab1.csproj"
-RUN dotnet publish "onitLab1/onitLab1.csproj" -c Release -o /app/publish
+# Восстанавливаем зависимости
+RUN dotnet restore ./onitLab1/onitLab1.csproj
+
+# Публикуем
+RUN dotnet publish ./onitLab1/onitLab1.csproj -c Release -o /app/publish
 
 FROM mcr.microsoft.com/dotnet/aspnet:10.0 AS runtime
 WORKDIR /app
